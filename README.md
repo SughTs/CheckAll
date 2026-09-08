@@ -95,4 +95,6 @@ CheckAll 是一个面向个人设备、以 PC 为主的开源诊断项目。它�
 
 ## 许可证
 
-项目计划以开源方式开发，具体许可证尚待确定，后续将通过仓库中的 `LICENSE` 文件明确。
+Copyright 2026 SughTs.
+
+CheckAll 采用 [Apache License 2.0](LICENSE) 开源许可证。完整条款请参阅仓库中的 [LICENSE](LICENSE) 文件。
